@@ -1,0 +1,4 @@
+
+(datetime.datetime(2021, 1, 25, 23, 41, 59), 'sasktel', 70.0)
+(datetime.datetime(2021, 1, 25, 23, 42, 9), 'telus', 120.0)
+(datetime.datetime(2021, 1, 25, 23, 43, 15), 'blue cross', 40.0)
